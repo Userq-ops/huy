@@ -1,0 +1,20 @@
+input {
+    background-color: white; 
+    color: rgb(0, 0, 0); 
+    border: none;
+    width: 200px;
+    height: 30px;
+    transition: 0.3s;
+    border-bottom: 1px solid black;
+}
+
+input:hover {
+    background-color: rgb(18, 142, 18); 
+    color: white; 
+    border: none;
+    width: 200px;
+    height: 30px;
+    transition: 0.3s;
+    border-bottom: 1px solid black;
+}
+
